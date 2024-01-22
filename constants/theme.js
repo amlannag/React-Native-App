@@ -4,10 +4,10 @@ const COLORS = {
   tertiary: "#FF7754",
 
   gray: "#83829A",
-  gray2: "#C1C0C8",
+  gray2: "#676767",
 
   white: "#F3F4F8",
-  lightWhite: "#FAFAFC",
+  lightWhite: "#9FBEF7 ",
 };
 
 const FONT = {
